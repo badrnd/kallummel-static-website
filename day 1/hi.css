@@ -1,0 +1,35 @@
+.puram-box{
+    width: 100%;
+    height: 500px;
+    background-color: blueviolet;
+    padding: 10px;
+}
+.box1{
+    width: 40%;
+    height: 30%;
+    background: blue;
+    float:left;
+    margin: 10px;
+
+}
+.box2{
+    width: 40%;
+    height: 30%;
+    background: rgb(255, 0, 191);
+    float:left;
+    margin: 10px;
+}
+.box3{
+    width: 40%;
+    height: 30%;
+    background: rgb(255, 0, 0);
+    float:left;
+    margin: 10px;
+}
+.box4{
+    width: 40%;
+    height: 30%;
+    background: rgb(255, 102, 0);
+    float:left;
+    margin: 10px;
+}
